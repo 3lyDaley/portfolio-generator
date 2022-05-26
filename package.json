@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/3lyDaley/portfolio-generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.4",
+    "mock-inquirer": "^1.0.3"
   }
 }
